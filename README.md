@@ -2,7 +2,7 @@
 
 A compact Arduino-based system that reads ambient light levels using an LDR sensor, displays the measured illuminance (in lux) on a 16×2 LCD, and provides a color-coded visual indicator via an RGB LED. Ideal for both indoor and outdoor applications (by adjusting the fixed resistor for different measurement ranges).
 
-📽 Have a look at how it works:
+📽 Have a look at how it works: https://drive.google.com/file/d/1Nlyvl2BDAhNTeR2XH9Fu45ItUzszA8s2/view?usp=sharing
 
 👉 Tinker of your own: https://www.tinkercad.com/things/4nvdTqW6fQn-light-intensity-measurement-using-ldr-sensor
 
